@@ -28,7 +28,7 @@ class XylophoneApp extends StatelessWidget {
   }
 
   _launchURL() async {
-    const url = 'https://github.com/InsaanTheHuman';
+    const url = 'https://github.com/InsaanTheHuman/xylophone-flutter';
     if (await canLaunch(url)) {
       await launch(url);
     } else {
