@@ -6,7 +6,7 @@ The original app looked like this
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
 
-After the modifications I made the app now looks like this
+After modifications the app now looks like this
 
 ![Modified App](https://i.imgur.com/fZKlQDE.jpg)
 
